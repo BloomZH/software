@@ -1,0 +1,365 @@
+[2018-11-03 15:45] [PACMAN] Running 'pacman -Su'
+[2018-11-03 15:45] [PACMAN] starting core system upgrade
+[2018-11-03 15:45] [PACMAN] starting full system upgrade
+[2018-11-03 15:45] [PACMAN] Running 'pacman -Syu'
+[2018-11-03 15:45] [PACMAN] synchronizing package lists
+[2018-11-03 15:45] [PACMAN] starting core system upgrade
+[2018-11-03 15:45] [ALPM] transaction started
+[2018-11-03 15:45] [ALPM] upgraded bash (4.4.019-3 -> 4.4.023-1)
+[2018-11-03 15:45] [ALPM] upgraded mintty (1~2.9.1-1 -> 1~2.9.3-1)
+[2018-11-03 15:45] [ALPM] transaction completed
+[2018-11-03 15:46] [PACMAN] Running 'pacman -Syu'
+[2018-11-03 15:46] [PACMAN] synchronizing package lists
+[2018-11-03 15:46] [PACMAN] starting core system upgrade
+[2018-11-03 15:46] [PACMAN] starting full system upgrade
+[2018-11-03 15:47] [ALPM] transaction started
+[2018-11-03 15:47] [ALPM] upgraded brotli (1.0.6-1 -> 1.0.7-1)
+[2018-11-03 15:47] [ALPM] upgraded libgcrypt (1.8.3-2 -> 1.8.4-1)
+[2018-11-03 15:47] [ALPM] upgraded libp11-kit (0.23.9-1 -> 0.23.14-1)
+[2018-11-03 15:47] [ALPM] upgraded p11-kit (0.23.9-1 -> 0.23.14-1)
+[2018-11-03 15:47] [ALPM] upgraded ca-certificates (20170717-2 -> 20180409-1)
+[2018-11-03 15:47] [ALPM] upgraded libnghttp2 (1.30.0-1 -> 1.34.0-1)
+[2018-11-03 15:47] [ALPM] upgraded libcurl (7.61.0-2 -> 7.62.0-1)
+[2018-11-03 15:47] [ALPM] upgraded curl (7.61.0-2 -> 7.62.0-1)
+[2018-11-03 15:47] [ALPM] upgraded file (5.34-1 -> 5.35-1)
+[2018-11-03 15:47] [ALPM] upgraded libgdbm (1.18-1 -> 1.18.1-1)
+[2018-11-03 15:47] [ALPM] upgraded gdbm (1.18-1 -> 1.18.1-1)
+[2018-11-03 15:47] [ALPM] upgraded libpcre2_8 (10.31-1 -> 10.32-1)
+[2018-11-03 15:48] [ALPM] upgraded vim (8.1.0022-1 -> 8.1.0500-1)
+[2018-11-03 15:48] [ALPM] upgraded openssh (7.6p1-2 -> 7.9p1-1)
+[2018-11-03 15:48] [ALPM] upgraded perl-Error (0.17026-1 -> 0.17027-1)
+[2018-11-03 15:48] [ALPM] upgraded perl-libwww (6.33-1 -> 6.36-1)
+[2018-11-03 15:48] [ALPM] upgraded perl-IO-Socket-SSL (2.056-1 -> 2.060-1)
+[2018-11-03 15:48] [ALPM] upgraded git (2.19.0-1 -> 2.19.1-1)
+[2018-11-03 15:48] [ALPM] upgraded gnupg (2.2.9-1 -> 2.2.10-1)
+[2018-11-03 15:48] [ALPM-SCRIPTLET] ==> 正在从 msys2.gpg 添加密匙...
+[2018-11-03 15:48] [ALPM-SCRIPTLET] ==> 正在本地签名密匙环中的可信密匙...
+[2018-11-03 15:48] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...
+[2018-11-03 15:48] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 123D4D51A1793859C2BE916BBBE514E53E0D0813...
+[2018-11-03 15:48] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 B91BCF3303284BF90CC043CA9F418C233E652008...
+[2018-11-03 15:48] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...
+[2018-11-03 15:48] [ALPM-SCRIPTLET] ==> 正在导入拥有者信任值...
+[2018-11-03 15:48] [ALPM-SCRIPTLET] ==> 正在更新可信数据库...
+[2018-11-03 15:48] [ALPM-SCRIPTLET] gpg: 不需要检查信任度数据库
+[2018-11-03 15:48] [ALPM] upgraded libgpgme (1.11.1-1 -> 1.12.0-1)
+[2018-11-03 15:48] [ALPM] upgraded liblz4 (1.8.2-1 -> 1.8.3-1)
+[2018-11-03 15:48] [ALPM] transaction completed
+[2018-11-03 15:55] [PACMAN] Running 'pacman -Syu'
+[2018-11-03 15:55] [PACMAN] synchronizing package lists
+[2018-11-03 15:55] [PACMAN] starting core system upgrade
+[2018-11-03 15:55] [PACMAN] starting full system upgrade
+[2018-11-10 21:08] [PACMAN] Running 'pacman -Syu'
+[2018-11-10 21:08] [PACMAN] synchronizing package lists
+[2018-11-10 21:08] [PACMAN] starting core system upgrade
+[2018-11-10 21:08] [PACMAN] starting full system upgrade
+[2018-11-10 21:08] [ALPM] transaction started
+[2018-11-10 21:08] [ALPM] upgraded gnupg (2.2.10-1 -> 2.2.11-1)
+[2018-11-10 21:08] [ALPM-SCRIPTLET] ==> 正在从 msys2.gpg 添加密匙...
+[2018-11-10 21:08] [ALPM-SCRIPTLET] ==> 正在本地签名密匙环中的可信密匙...
+[2018-11-10 21:08] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...
+[2018-11-10 21:09] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 123D4D51A1793859C2BE916BBBE514E53E0D0813...
+[2018-11-10 21:09] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 B91BCF3303284BF90CC043CA9F418C233E652008...
+[2018-11-10 21:09] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...
+[2018-11-10 21:09] [ALPM-SCRIPTLET] ==> 正在导入拥有者信任值...
+[2018-11-10 21:09] [ALPM-SCRIPTLET] ==> 正在更新可信数据库...
+[2018-11-10 21:09] [ALPM-SCRIPTLET] gpg: 不需要检查信任度数据库
+[2018-11-10 21:09] [ALPM] transaction completed
+[2018-11-10 21:09] [PACMAN] Running 'pacman -Su'
+[2018-11-10 21:09] [PACMAN] starting core system upgrade
+[2018-11-10 21:09] [PACMAN] starting full system upgrade
+[2018-11-10 21:09] [PACMAN] Running 'pacman -Syu'
+[2018-11-10 21:09] [PACMAN] synchronizing package lists
+[2018-11-10 21:09] [PACMAN] starting core system upgrade
+[2018-11-10 21:09] [PACMAN] starting full system upgrade
+[2018-11-15 22:33] [PACMAN] Running 'pacman -Syu'
+[2018-11-15 22:33] [PACMAN] synchronizing package lists
+[2018-11-15 22:33] [PACMAN] starting core system upgrade
+[2018-11-15 22:33] [PACMAN] starting full system upgrade
+[2018-11-15 22:33] [PACMAN] Running 'pacman -Su'
+[2018-11-15 22:33] [PACMAN] starting core system upgrade
+[2018-11-15 22:33] [PACMAN] starting full system upgrade
+[2018-11-18 22:55] [PACMAN] Running 'pacman -Su'
+[2018-11-18 22:55] [PACMAN] starting core system upgrade
+[2018-11-18 22:55] [PACMAN] starting full system upgrade
+[2018-11-18 22:55] [PACMAN] Running 'pacman -Syu'
+[2018-11-18 22:55] [PACMAN] synchronizing package lists
+[2018-11-18 22:55] [PACMAN] starting core system upgrade
+[2018-11-18 22:56] [PACMAN] starting full system upgrade
+[2018-11-24 08:06] [PACMAN] Running 'pacman -Syu'
+[2018-11-24 08:06] [PACMAN] synchronizing package lists
+[2018-11-24 08:06] [PACMAN] starting core system upgrade
+[2018-11-24 08:06] [PACMAN] starting full system upgrade
+[2018-11-24 08:07] [PACMAN] Running 'pacman -Su'
+[2018-11-24 08:07] [PACMAN] starting core system upgrade
+[2018-11-24 08:07] [PACMAN] starting full system upgrade
+[2018-11-27 23:18] [PACMAN] Running 'pacman -Syu'
+[2018-11-27 23:18] [PACMAN] synchronizing package lists
+[2018-11-27 23:18] [PACMAN] starting core system upgrade
+[2018-11-27 23:18] [ALPM] transaction started
+[2018-11-27 23:19] [ALPM] upgraded msys2-runtime (2.11.1-2 -> 2.11.2-1)
+[2018-11-27 23:19] [ALPM] upgraded mintty (1~2.9.3-1 -> 1~2.9.4-1)
+[2018-11-27 23:19] [ALPM] upgraded msys2-runtime-devel (2.11.1-2 -> 2.11.2-1)
+[2018-11-27 23:19] [ALPM] transaction completed
+[2018-11-27 23:19] [PACMAN] Running 'pacman -Syu'
+[2018-11-27 23:19] [PACMAN] synchronizing package lists
+[2018-11-27 23:19] [PACMAN] starting core system upgrade
+[2018-11-27 23:19] [PACMAN] starting full system upgrade
+[2018-11-27 23:19] [ALPM] transaction started
+[2018-11-27 23:19] [ALPM] upgraded pkgfile (17-1 -> 19-1)
+[2018-11-27 23:19] [ALPM] transaction completed
+[2018-11-27 23:19] [PACMAN] Running 'pacman -Syu'
+[2018-11-27 23:19] [PACMAN] synchronizing package lists
+[2018-11-27 23:19] [PACMAN] starting core system upgrade
+[2018-11-27 23:19] [PACMAN] starting full system upgrade
+[2018-11-27 23:19] [PACMAN] Running 'pacman -Su'
+[2018-11-27 23:19] [PACMAN] starting core system upgrade
+[2018-11-27 23:19] [PACMAN] starting full system upgrade
+[2018-11-27 23:20] [PACMAN] Running 'pacman -Su'
+[2018-11-27 23:20] [PACMAN] starting core system upgrade
+[2018-11-27 23:20] [PACMAN] starting full system upgrade
+[2018-11-27 23:20] [PACMAN] Running 'pacman -Syu'
+[2018-11-27 23:20] [PACMAN] synchronizing package lists
+[2018-11-27 23:20] [PACMAN] starting core system upgrade
+[2018-11-27 23:20] [PACMAN] starting full system upgrade
+[2018-12-05 20:30] [PACMAN] Running 'pacman -Syu'
+[2018-12-05 20:30] [PACMAN] synchronizing package lists
+[2018-12-05 20:30] [PACMAN] starting core system upgrade
+[2018-12-05 20:30] [PACMAN] starting full system upgrade
+[2018-12-05 20:31] [ALPM] transaction started
+[2018-12-05 20:31] [ALPM] upgraded git (2.19.1-1 -> 2.19.2-1)
+[2018-12-05 20:31] [ALPM] transaction completed
+[2018-12-05 20:32] [PACMAN] Running 'pacman -Su'
+[2018-12-05 20:32] [PACMAN] starting core system upgrade
+[2018-12-05 20:32] [PACMAN] starting full system upgrade
+[2018-12-05 20:33] [PACMAN] Running 'pacman -Syu'
+[2018-12-05 20:33] [PACMAN] synchronizing package lists
+[2018-12-05 20:33] [PACMAN] starting core system upgrade
+[2018-12-05 20:33] [PACMAN] starting full system upgrade
+[2018-12-05 22:35] [PACMAN] Running 'pacman -Su dos2unix'
+[2018-12-05 22:35] [PACMAN] starting core system upgrade
+[2018-12-05 22:35] [PACMAN] starting full system upgrade
+[2018-12-05 22:36] [ALPM] transaction started
+[2018-12-05 22:36] [ALPM] installed dos2unix (7.4.0-1)
+[2018-12-05 22:36] [ALPM] transaction completed
+[2018-12-05 22:39] [PACMAN] Running 'pacman -Su svn'
+[2018-12-05 22:39] [PACMAN] starting core system upgrade
+[2018-12-05 22:39] [PACMAN] starting full system upgrade
+[2018-12-05 22:39] [ALPM] transaction started
+[2018-12-05 22:39] [ALPM] installed apr (1.6.5-1)
+[2018-12-05 22:39] [ALPM] installed apr-util (1.6.1-1)
+[2018-12-05 22:39] [ALPM] installed libserf (1.3.9-2)
+[2018-12-05 22:39] [ALPM] installed libsasl (2.1.27rc8-1)
+[2018-12-05 22:39] [ALPM] installed subversion (1.11.0-1)
+[2018-12-05 22:39] [ALPM] transaction completed
+[2018-12-05 22:39] [PACMAN] Running 'pacman -Su zip'
+[2018-12-05 22:39] [PACMAN] starting core system upgrade
+[2018-12-05 22:39] [PACMAN] starting full system upgrade
+[2018-12-05 22:39] [ALPM] transaction started
+[2018-12-05 22:39] [ALPM] installed zip (3.0-3)
+[2018-12-05 22:39] [ALPM] transaction completed
+[2018-12-05 22:43] [PACMAN] Running 'pacman -Su rsync'
+[2018-12-05 22:43] [PACMAN] starting core system upgrade
+[2018-12-05 22:43] [PACMAN] starting full system upgrade
+[2018-12-05 22:43] [PACMAN] Running 'pacman -Su rsync'
+[2018-12-05 22:43] [PACMAN] starting core system upgrade
+[2018-12-05 22:43] [PACMAN] starting full system upgrade
+[2018-12-05 22:43] [ALPM] transaction started
+[2018-12-05 22:43] [ALPM] installed rsync (3.1.3-1)
+[2018-12-05 22:43] [ALPM] transaction completed
+[2020-07-11 19:48] [PACMAN] Running 'pacman -Syu'
+[2020-07-11 19:48] [PACMAN] synchronizing package lists
+[2020-07-11 19:48] [PACMAN] starting core system upgrade
+[2020-07-11 19:49] [ALPM] transaction started
+[2020-07-11 19:49] [ALPM] upgraded msys2-runtime (2.11.2-1 -> 3.1.5-3)
+[2020-07-11 19:49] [ALPM] upgraded bash (4.4.023-1 -> 4.4.023-2)
+[2020-07-11 19:49] [ALPM] warning: /etc/skel/.bashrc installed as /etc/skel/.bashrc.pacnew
+[2020-07-11 19:49] [ALPM] upgraded filesystem (2018.08-1 -> 2020.02-4)
+[2020-07-11 19:49] [ALPM] upgraded mintty (1~2.9.4-1 -> 1~3.2.0-1)
+[2020-07-11 19:49] [ALPM] upgraded msys2-runtime-devel (2.11.2-1 -> 3.1.5-3)
+[2020-07-11 19:49] [ALPM] upgraded pacman-mirrors (20180604-2 -> 20200329-1)
+[2020-07-11 19:49] [ALPM] installed libzstd (1.4.5-2)
+[2020-07-11 19:49] [ALPM] installed zstd (1.4.5-2)
+[2020-07-11 19:49] [ALPM] upgraded pacman (5.1.1-3 -> 5.2.1-12)
+[2020-07-11 19:49] [ALPM] transaction completed
+[2020-07-16T09:50:43+0800] [PACMAN] Running 'pacman -Syu'
+[2020-07-16T09:50:43+0800] [PACMAN] synchronizing package lists
+[2020-07-16T09:52:10+0800] [PACMAN] starting core system upgrade
+[2020-07-16T10:04:34+0800] [ALPM] transaction started
+[2020-07-16T10:04:39+0800] [ALPM] upgraded pacman (5.2.1-12 -> 5.2.2-1)
+[2020-07-16T10:04:39+0800] [ALPM] transaction completed
+[2020-07-16T10:06:18+0800] [PACMAN] Running 'pacman -Su'
+[2020-07-16T10:06:18+0800] [PACMAN] starting core system upgrade
+[2020-07-16T10:06:18+0800] [PACMAN] starting full system upgrade
+[2020-07-16T12:56:11+0800] [ALPM] transaction started
+[2020-07-16T12:56:11+0800] [ALPM] upgraded gcc-libs (7.3.0-3 -> 9.3.0-1)
+[2020-07-16T12:56:14+0800] [ALPM] upgraded libiconv (1.15-1 -> 1.16-1)
+[2020-07-16T12:56:14+0800] [ALPM] upgraded libutil-linux (2.32.1-1 -> 2.35.1-1)
+[2020-07-16T12:56:14+0800] [ALPM] upgraded apr (1.6.5-1 -> 1.7.0-1)
+[2020-07-16T12:56:20+0800] [ALPM] upgraded bash-completion (2.8-2 -> 2.10-1)
+[2020-07-16T12:56:25+0800] [ALPM] upgraded binutils (2.30-1 -> 2.34-3)
+[2020-07-16T12:56:27+0800] [ALPM] upgraded brotli (1.0.7-1 -> 1.0.7-3)
+[2020-07-16T12:56:27+0800] [ALPM] upgraded libbz2 (1.0.6-2 -> 1.0.8-2)
+[2020-07-16T12:56:27+0800] [ALPM] upgraded libexpat (2.2.6-1 -> 2.2.9-1)
+[2020-07-16T12:56:27+0800] [ALPM] upgraded liblzma (5.2.4-1 -> 5.2.5-1)
+[2020-07-16T12:56:27+0800] [ALPM] upgraded liblz4 (1.8.3-1 -> 1.9.2-1)
+[2020-07-16T12:56:27+0800] [ALPM] upgraded gmp (6.1.2-1 -> 6.2.0-1)
+[2020-07-16T12:56:28+0800] [ALPM] upgraded libhogweed (3.4-1 -> 3.6-1)
+[2020-07-16T12:56:28+0800] [ALPM] upgraded libnettle (3.4-1 -> 3.6-1)
+[2020-07-16T12:56:32+0800] [ALPM] upgraded coreutils (8.30-1 -> 8.32-1)
+[2020-07-16T12:56:34+0800] [ALPM] upgraded icu (62.1-1 -> 65.1-1)
+[2020-07-16T12:57:28+0800] [ALPM] upgraded ncurses (6.1.20180908-1 -> 6.2-1)
+[2020-07-16T12:57:28+0800] [ALPM] upgraded libreadline (7.0.005-1 -> 8.0.004-1)
+[2020-07-16T12:57:30+0800] [ALPM] upgraded libxml2 (2.9.8-1 -> 2.9.10-4)
+[2020-07-16T12:57:30+0800] [ALPM] upgraded bsdcpio (3.3.3-3 -> 3.4.3-1)
+[2020-07-16T12:57:30+0800] [ALPM] upgraded bsdtar (3.3.3-3 -> 3.4.3-1)
+[2020-07-16T12:57:30+0800] [ALPM] upgraded bzip2 (1.0.6-2 -> 1.0.8-2)
+[2020-07-16T12:57:31+0800] [ALPM] upgraded libopenssl (1.0.2.p-2 -> 1.1.1.g-2)
+[2020-07-16T12:57:33+0800] [ALPM] upgraded openssl (1.0.2.p-2 -> 1.1.1.g-2)
+[2020-07-16T12:57:34+0800] [ALPM] upgraded findutils (4.6.0-1 -> 4.7.0-1)
+[2020-07-16T12:57:36+0800] [ALPM] upgraded sed (4.5-1 -> 4.8-1)
+[2020-07-16T12:57:36+0800] [ALPM] upgraded libffi (3.2.1-3 -> 3.3-1)
+[2020-07-16T12:57:37+0800] [ALPM] upgraded libpcre (8.42-1 -> 8.44-1)
+[2020-07-16T12:57:37+0800] [ALPM] upgraded less (530-1 -> 551-1)
+[2020-07-16T12:57:37+0800] [ALPM] upgraded gzip (1.9-1 -> 1.10-1)
+[2020-07-16T12:57:38+0800] [ALPM] upgraded info (6.5-2 -> 6.7-2)
+[2020-07-16T12:57:39+0800] [ALPM] upgraded libtasn1 (4.13-1 -> 4.16.0-1)
+[2020-07-16T12:57:39+0800] [ALPM] upgraded libgpg-error (1.32-1 -> 1.38-1)
+[2020-07-16T12:57:40+0800] [ALPM] upgraded libgcrypt (1.8.4-1 -> 1.8.6-1)
+[2020-07-16T12:57:40+0800] [ALPM] upgraded libxslt (1.1.32-1 -> 1.1.34-3)
+[2020-07-16T12:57:42+0800] [ALPM] upgraded glib2 (2.54.3-1 -> 2.54.3-3)
+[2020-07-16T12:57:42+0800] [ALPM] upgraded libp11-kit (0.23.14-1 -> 0.23.20-2)
+[2020-07-16T12:57:43+0800] [ALPM] upgraded p11-kit (0.23.14-1 -> 0.23.20-2)
+[2020-07-16T12:57:43+0800] [ALPM] upgraded ca-certificates (20180409-1 -> 20190110-1)
+[2020-07-16T12:57:46+0800] [ALPM] upgraded libedit (3.1-20170329 -> 20191231_3.1-1)
+[2020-07-16T12:57:47+0800] [ALPM] upgraded libsqlite (3.21.0-4 -> 3.30.0-1)
+[2020-07-16T12:57:47+0800] [ALPM] upgraded heimdal-libs (7.5.0-2 -> 7.7.0-1)
+[2020-07-16T12:57:48+0800] [ALPM] upgraded libidn2 (2.0.5-1 -> 2.3.0-1)
+[2020-07-16T12:57:48+0800] [ALPM] upgraded libnghttp2 (1.34.0-1 -> 1.41.0-1)
+[2020-07-16T12:57:48+0800] [ALPM] upgraded libpsl (0.20.2-1 -> 0.21.0-1)
+[2020-07-16T12:57:50+0800] [ALPM] upgraded libssh2 (1.8.0-1 -> 1.9.0-1)
+[2020-07-16T12:57:50+0800] [ALPM] upgraded libcurl (7.62.0-1 -> 7.71.1-1)
+[2020-07-16T12:57:54+0800] [ALPM] upgraded curl (7.62.0-1 -> 7.71.1-1)
+[2020-07-16T12:57:54+0800] [ALPM] upgraded dash (0.5.10.2-1 -> 0.5.11-1)
+[2020-07-16T12:57:56+0800] [ALPM] upgraded dos2unix (7.4.0-1 -> 7.4.1-1)
+[2020-07-16T12:57:56+0800] [ALPM] installed libyaml (0.2.5-1)
+[2020-07-16T12:57:57+0800] [ALPM] upgraded dtc (1.4.7-1 -> 1.6.0-2)
+[2020-07-16T12:57:57+0800] [ALPM] upgraded expat (2.2.6-1 -> 2.2.9-1)
+[2020-07-16T12:57:58+0800] [ALPM] upgraded file (5.35-1 -> 5.39-1)
+[2020-07-16T12:57:59+0800] [ALPM] upgraded mpfr (4.0.1-1 -> 4.0.2-1)
+[2020-07-16T12:58:00+0800] [ALPM] upgraded gawk (4.2.1-1 -> 5.1.0-1)
+[2020-07-16T12:58:01+0800] [ALPM] upgraded isl (0.19-1 -> 0.22.1-1)
+[2020-07-16T12:58:18+0800] [ALPM] upgraded msys2-w32api-headers (6.0.0.5223.7f9d8753-1 -> 8.0.0.5683.629fd2b1-1)
+[2020-07-16T12:58:29+0800] [ALPM] upgraded msys2-w32api-runtime (6.0.0.5223.7f9d8753-1 -> 8.0.0.5683.629fd2b1-1)
+[2020-07-16T12:58:49+0800] [ALPM] upgraded gcc (7.3.0-3 -> 9.3.0-1)
+[2020-07-16T12:58:52+0800] [ALPM] upgraded libgdbm (1.18.1-1 -> 1.18.1-3)
+[2020-07-16T12:58:52+0800] [ALPM] upgraded gdbm (1.18.1-1 -> 1.18.1-3)
+[2020-07-16T12:58:53+0800] [ALPM] upgraded libpcre2_8 (10.32-1 -> 10.35-1)
+[2020-07-16T12:59:20+0800] [ALPM] upgraded vim (8.1.0500-1 -> 8.2.0869-1)
+[2020-07-16T12:59:23+0800] [ALPM] upgraded heimdal (7.5.0-2 -> 7.7.0-1)
+[2020-07-16T12:59:24+0800] [ALPM] upgraded openssh (7.9p1-1 -> 8.3p1-1)
+[2020-07-16T12:59:54+0800] [ALPM] upgraded perl (5.28.0-1 -> 5.32.0-1)
+[2020-07-16T12:59:54+0800] [ALPM] upgraded perl-Error (0.17027-1 -> 0.17029-1)
+[2020-07-16T12:59:55+0800] [ALPM] upgraded perl-HTML-Parser (3.72-3 -> 3.72-5)
+[2020-07-16T12:59:55+0800] [ALPM] upgraded perl-HTTP-Date (6.02-2 -> 6.05-1)
+[2020-07-16T12:59:55+0800] [ALPM] upgraded perl-LWP-MediaTypes (6.02-2 -> 6.04-1)
+[2020-07-16T12:59:55+0800] [ALPM] upgraded perl-URI (1.74-1 -> 1.76-1)
+[2020-07-16T12:59:56+0800] [ALPM] upgraded perl-HTTP-Message (6.18-1 -> 6.25-1)
+[2020-07-16T12:59:56+0800] [ALPM] upgraded perl-HTTP-Cookies (6.04-1 -> 6.08-1)
+[2020-07-16T12:59:56+0800] [ALPM] upgraded perl-HTTP-Daemon (6.01-2 -> 6.10-1)
+[2020-07-16T12:59:56+0800] [ALPM] upgraded perl-Net-HTTP (6.18-1 -> 6.19-1)
+[2020-07-16T12:59:56+0800] [ALPM] upgraded perl-libwww (6.36-1 -> 6.46-1)
+[2020-07-16T12:59:56+0800] [ALPM] upgraded perl-TermReadKey (2.37-3 -> 2.38-2)
+[2020-07-16T12:59:57+0800] [ALPM] upgraded perl-TimeDate (2.30-2 -> 2.33-1)
+[2020-07-16T12:59:57+0800] [ALPM] upgraded perl-MailTools (2.20-1 -> 2.21-1)
+[2020-07-16T12:59:58+0800] [ALPM] upgraded perl-Net-SSLeay (1.85-1 -> 1.89_01-1)
+[2020-07-16T12:59:58+0800] [ALPM] upgraded perl-IO-Socket-SSL (2.060-1 -> 2.068-1)
+[2020-07-16T13:00:06+0800] [ALPM] upgraded git (2.19.2-1 -> 2.27.0-1)
+[2020-07-16T13:00:06+0800] [ALPM] upgraded libassuan (2.5.1-1 -> 2.5.3-1)
+[2020-07-16T13:00:07+0800] [ALPM] upgraded libgnutls (3.6.3-1 -> 3.6.14-1)
+[2020-07-16T13:00:10+0800] [ALPM] upgraded libksba (1.3.5-1 -> 1.4.0-1)
+[2020-07-16T13:00:10+0800] [ALPM] upgraded nettle (3.4-1 -> 3.6-1)
+[2020-07-16T13:00:13+0800] [ALPM] upgraded gnupg (2.2.11-1 -> 2.2.21-1)
+[2020-07-16T13:00:20+0800] [ALPM-SCRIPTLET] ==> 正在从 msys2.gpg 添加密匙...
+[2020-07-16T13:00:21+0800] [ALPM-SCRIPTLET] ==> 正在本地签名密匙环中的可信密匙...
+[2020-07-16T13:00:21+0800] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...
+[2020-07-16T13:00:30+0800] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 123D4D51A1793859C2BE916BBBE514E53E0D0813...
+[2020-07-16T13:00:30+0800] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 B91BCF3303284BF90CC043CA9F418C233E652008...
+[2020-07-16T13:00:31+0800] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...
+[2020-07-16T13:00:31+0800] [ALPM-SCRIPTLET] ==> 正在导入拥有者信任值...
+[2020-07-16T13:00:32+0800] [ALPM-SCRIPTLET] ==> 正在更新可信数据库...
+[2020-07-16T13:00:32+0800] [ALPM-SCRIPTLET] gpg: 不需要检查信任度数据库
+[2020-07-16T13:00:32+0800] [ALPM] upgraded tftp-hpa (5.2-2 -> 5.2-3)
+[2020-07-16T13:00:32+0800] [ALPM] upgraded inetutils (1.9.4-1 -> 1.9.4-2)
+[2020-07-16T13:00:34+0800] [ALPM] upgraded libarchive (3.3.3-3 -> 3.4.3-1)
+[2020-07-16T13:00:34+0800] [ALPM] upgraded libgpgme (1.12.0-1 -> 1.13.1-4)
+[2020-07-16T13:00:35+0800] [ALPM] upgraded libpcre16 (8.42-1 -> 8.44-1)
+[2020-07-16T13:00:35+0800] [ALPM] upgraded libpcre32 (8.42-1 -> 8.44-1)
+[2020-07-16T13:00:35+0800] [ALPM] upgraded libpcrecpp (8.42-1 -> 8.44-1)
+[2020-07-16T13:00:35+0800] [ALPM] upgraded libpcreposix (8.42-1 -> 8.44-1)
+[2020-07-16T13:00:36+0800] [ALPM] upgraded libsasl (2.1.27rc8-1 -> 2.1.27-1)
+[2020-07-16T13:00:36+0800] [ALPM] upgraded libserf (1.3.9-2 -> 1.3.9-5)
+[2020-07-16T13:00:36+0800] [ALPM] upgraded msys2-keyring (r9.397a52e-1 -> r21.b39fb11-1)
+[2020-07-16T13:00:37+0800] [ALPM-SCRIPTLET] ==> 正在从 msys2.gpg 添加密匙...
+[2020-07-16T13:00:38+0800] [ALPM-SCRIPTLET] ==> 正在本地签名密匙环中的可信密匙...
+[2020-07-16T13:00:38+0800] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 6E8FEAFF9644F54EED90EEA0790AE56A1D3CFDDC...
+[2020-07-16T13:00:39+0800] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...
+[2020-07-16T13:00:40+0800] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 123D4D51A1793859C2BE916BBBE514E53E0D0813...
+[2020-07-16T13:00:40+0800] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 B91BCF3303284BF90CC043CA9F418C233E652008...
+[2020-07-16T13:00:41+0800] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...
+[2020-07-16T13:00:41+0800] [ALPM-SCRIPTLET]   -> 正在本地签名密匙 69985C5EB351011C78DF7F6D755B8182ACD22879...
+[2020-07-16T13:00:42+0800] [ALPM-SCRIPTLET] ==> 正在导入拥有者信任值...
+[2020-07-16T13:00:42+0800] [ALPM-SCRIPTLET] gpg: setting ownertrust to 4
+[2020-07-16T13:00:42+0800] [ALPM-SCRIPTLET] gpg: setting ownertrust to 4
+[2020-07-16T13:00:42+0800] [ALPM-SCRIPTLET] ==> 正在密匙环中禁用已激活密匙...
+[2020-07-16T13:00:42+0800] [ALPM-SCRIPTLET]   -> 正在禁用密匙 B19514FB53EB3668471B296E794DCF97F93FC717...
+[2020-07-16T13:00:43+0800] [ALPM-SCRIPTLET] ==> 正在更新可信数据库...
+[2020-07-16T13:00:43+0800] [ALPM-SCRIPTLET] gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+[2020-07-16T13:00:43+0800] [ALPM-SCRIPTLET] gpg: 深度：0  有效性：  1  已签名：  6  信任度：0-，0q，0n，0m，0f，1u
+[2020-07-16T13:00:43+0800] [ALPM-SCRIPTLET] gpg: 深度：1  有效性：  6  已签名：  6  信任度：0-，0q，0n，6m，0f，0u
+[2020-07-16T13:00:43+0800] [ALPM-SCRIPTLET] gpg: 深度：2  有效性：  6  已签名：  0  信任度：6-，0q，0n，0m，0f，0u
+[2020-07-16T13:00:43+0800] [ALPM-SCRIPTLET] gpg: 下次信任度数据库检查将于 2021-06-19 进行
+[2020-07-16T13:00:44+0800] [ALPM] upgraded pcre (8.42-1 -> 8.44-1)
+[2020-07-16T13:00:45+0800] [ALPM] upgraded xz (5.2.4-1 -> 5.2.5-1)
+[2020-07-16T13:00:45+0800] [ALPM] upgraded pkgfile (19-1 -> 21-1)
+[2020-07-16T13:00:50+0800] [ALPM] upgraded subversion (1.11.0-1 -> 1.14.0-2)
+[2020-07-16T13:01:05+0800] [ALPM] upgraded tzcode (2018.c-1 -> 2020a-1)
+[2020-07-16T13:01:07+0800] [ALPM] upgraded util-linux (2.32.1-1 -> 2.35.1-1)
+[2020-07-16T13:01:08+0800] [ALPM] upgraded wget (1.19.5-1 -> 1.20.3-1)
+[2020-07-16T13:01:08+0800] [ALPM] transaction completed
+[2020-07-16T13:01:08+0800] [ALPM] running 'texinfo-install.hook'...
+[2020-07-16T13:02:22+0800] [PACMAN] Running 'pacman -Su'
+[2020-07-16T13:02:22+0800] [PACMAN] starting core system upgrade
+[2020-07-16T13:02:22+0800] [PACMAN] starting full system upgrade
+[2020-07-26T19:27:51+0800] [PACMAN] Running 'pacman -Su'
+[2020-07-26T19:27:51+0800] [PACMAN] starting core system upgrade
+[2020-07-26T19:27:51+0800] [PACMAN] starting full system upgrade
+[2020-07-26T19:28:05+0800] [PACMAN] Running 'pacman -Syu'
+[2020-07-26T19:28:05+0800] [PACMAN] synchronizing package lists
+[2020-07-26T19:29:57+0800] [PACMAN] starting core system upgrade
+[2020-07-26T19:45:11+0800] [ALPM] transaction started
+[2020-07-26T19:45:12+0800] [ALPM] upgraded filesystem (2020.02-4 -> 2020.02-5)
+[2020-07-26T19:45:13+0800] [ALPM] upgraded msys2-runtime (3.1.5-3 -> 3.1.6-1)
+[2020-07-26T19:45:15+0800] [ALPM] upgraded msys2-runtime-devel (3.1.5-3 -> 3.1.6-1)
+[2020-07-26T19:45:15+0800] [ALPM] transaction completed
+[2020-07-26T19:47:08+0800] [PACMAN] Running 'pacman -Su'
+[2020-07-26T19:47:08+0800] [PACMAN] starting core system upgrade
+[2020-07-26T19:47:08+0800] [PACMAN] starting full system upgrade
+[2020-07-26T20:25:33+0800] [ALPM] transaction started
+[2020-07-26T20:25:36+0800] [ALPM] upgraded binutils (2.34-3 -> 2.34-4)
+[2020-07-26T20:25:40+0800] [ALPM] upgraded dash (0.5.11-1 -> 0.5.11.1-1)
+[2020-07-26T20:25:40+0800] [ALPM] upgraded icu (65.1-1 -> 67.1-1)
+[2020-07-26T20:25:41+0800] [ALPM] upgraded libsqlite (3.30.0-1 -> 3.32.3-1)
+[2020-07-26T20:25:41+0800] [ALPM] upgraded libxml2 (2.9.10-4 -> 2.9.10-5)
+[2020-07-26T20:25:41+0800] [ALPM] upgraded libgpgme (1.13.1-4 -> 1.14.0-1)
+[2020-07-26T20:25:43+0800] [ALPM] upgraded libutil-linux (2.35.1-1 -> 2.35.2-1)
+[2020-07-26T20:25:43+0800] [ALPM] upgraded mpfr (4.0.2-1 -> 4.1.0-1)
+[2020-07-26T20:25:44+0800] [ALPM] upgraded perl-HTTP-Daemon (6.10-1 -> 6.12-1)
+[2020-07-26T20:25:44+0800] [ALPM] installed libxxhash (0.7.4-1)
+[2020-07-26T20:25:44+0800] [ALPM] upgraded rsync (3.1.3-1 -> 3.2.2-1)
+[2020-07-26T20:25:47+0800] [ALPM] upgraded util-linux (2.35.1-1 -> 2.35.2-1)
+[2020-07-26T20:25:47+0800] [ALPM] transaction completed
+[2020-07-26T20:25:47+0800] [ALPM] running 'texinfo-install.hook'...
+[2020-07-26T21:13:23+0800] [PACMAN] Running 'pacman -S python3'
+[2020-07-26T21:13:37+0800] [PACMAN] Running 'pacman -S python3.7'
+[2020-07-26T21:13:49+0800] [PACMAN] Running 'pacman -S python-3.7'
+[2020-07-26T21:34:13+0800] [PACMAN] Running 'pacman -S scons'
