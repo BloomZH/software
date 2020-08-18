@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Shell 脚本" displayType="NONE" playSound="true" />
+  </component>
+</application>

@@ -1,0 +1,31 @@
+<application>
+  <component name="WindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="875" y="190" key="#Plugins" timestamp="1597588477164">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="875" y="190" key="#Plugins/0.0.2560.1400" timestamp="1597588477164" />
+    <state x="1063" y="303" key="FileChooserDialogImpl" timestamp="1597588959813">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1063" y="303" key="FileChooserDialogImpl/0.0.2560.1400" timestamp="1597588959813" />
+    <state x="1609" y="1062" width="300" height="106" key="ProcessPopupWindow" timestamp="1597761993731">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1609" y="1062" width="300" height="106" key="ProcessPopupWindow/0.0.2560.1400" timestamp="1597761993731" />
+    <state x="1283" y="549" key="WELCOME_SCREEN" timestamp="1597588477174">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1283" y="549" key="WELCOME_SCREEN/0.0.2560.1400" timestamp="1597588477174" />
+  </component>
+</application>

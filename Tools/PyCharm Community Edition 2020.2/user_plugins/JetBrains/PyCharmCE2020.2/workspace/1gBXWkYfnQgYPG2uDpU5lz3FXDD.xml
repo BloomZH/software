@@ -1,0 +1,102 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day02/expression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.sh" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="-8" y="-8" width="2576" height="1416" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Study_A_Byte_of_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study_A_Byte_of_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study_A_Byte_of_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study_A_Byte_of_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Day02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study_A_Byte_of_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="临时文件和控制台" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Study_A_Byte_of_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="临时文件和控制台" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="临时文件" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49943882" visible="true" weight="0.17684127" />
+      <window_info id="Structure" order="1" sideWeight="0.5005612" side_tool="true" weight="0.2496329" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.32966226" />
+      <window_info id="Pull Requests" order="4" weight="0.32966226" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32996634" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50019693" side_tool="true" weight="0.32994527" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" sideWeight="0.49980307" visible="true" weight="0.33541828" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" show_stripe_button="false" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Day01/HelloWorld.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.sh" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day02/expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

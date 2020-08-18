@@ -1,0 +1,114 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Delete">
+        <ActionSummary times="1" last="1597762138848" />
+      </entry>
+      <entry key="Annotate">
+        <ActionSummary times="1" last="1597589338033" />
+      </entry>
+      <entry key="EditCustomProperties">
+        <ActionSummary times="1" last="1597589725682" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="46" last="1597762402840" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="1" last="1597762110447" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="5" last="1597762403638" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="8" last="1597762398309" />
+      </entry>
+      <entry key="EditorLineEnd">
+        <ActionSummary times="1" last="1597762104764" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="10" last="1597762400485" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="1" last="1597762101134" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="1" last="1597762102906" />
+      </entry>
+      <entry key="FileChooser.GotoDesktop">
+        <ActionSummary times="2" last="1597588977723" />
+      </entry>
+      <entry key="Images.SetBackgroundImage">
+        <ActionSummary times="1" last="1597590552132" />
+      </entry>
+      <entry key="NewFile">
+        <ActionSummary times="1" last="1597761943700" />
+      </entry>
+      <entry key="NewScratchFile">
+        <ActionSummary times="1" last="1597762355698" />
+      </entry>
+      <entry key="OpenFile">
+        <ActionSummary times="1" last="1597588975287" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="11" last="1597762918672" />
+      </entry>
+      <entry key="Vcs.VcsClone">
+        <ActionSummary times="1" last="1597587570881" />
+      </entry>
+      <entry key="WelcomeScreen.OpenDirectoryProject">
+        <ActionSummary times="2" last="1597588941173" />
+      </entry>
+      <entry key="WelcomeScreen.Plugins">
+        <ActionSummary times="1" last="1597587615840" />
+      </entry>
+      <entry key="WelcomeScreen.Update">
+        <ActionSummary times="1" last="1597587585648" />
+      </entry>
+      <entry key="com.intellij.diagnostic.WindowsDefenderFixAction">
+        <ActionSummary times="1" last="1597589027233" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.PluginManagerConfigurable$2">
+        <ActionSummary times="2" last="1597762191163" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+        <ActionSummary times="4" last="1597762186556" />
+      </entry>
+      <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
+        <ActionSummary times="4" last="1597762348350" />
+      </entry>
+      <entry key="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
+        <ActionSummary times="1" last="1597589341760" />
+      </entry>
+      <entry key="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+        <ActionSummary times="3" last="1597762406433" />
+      </entry>
+      <entry key="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+        <ActionSummary times="3" last="1597762415990" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="6" last="1597762410787" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$2">
+        <ActionSummary times="2" last="1597587614931" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+        <ActionSummary times="8" last="1597762194259" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$RemoveButton">
+        <ActionSummary times="4" last="1597590593054" />
+      </entry>
+      <entry key="com.jetbrains.python.sdk.PySdkPopupFactory$AddInterpreterAction">
+        <ActionSummary times="1" last="1597589209559" />
+      </entry>
+      <entry key="com.jetbrains.python.sdk.PySdkPopupFactory$InterpreterSettingsAction">
+        <ActionSummary times="4" last="1597589451757" />
+      </entry>
+      <entry key="com.jetbrains.python.sdk.PySdkPopupFactory$SwitchToSdkAction">
+        <ActionSummary times="1" last="1597589204021" />
+      </entry>
+      <entry key="editRunConfigurations">
+        <ActionSummary times="2" last="1597668711704" />
+      </entry>
+    </data>
+  </component>
+</application>

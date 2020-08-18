@@ -1,0 +1,64 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Shell script</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="chec&#10;check&#10;che&#10;ch&#10;c" />
+    <property name="MarketplacePluginsSearchHistory" value="check&#10;atom&#10;a'to'm&#10;a&#10;/organization:Mallowig" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="SHELLCHECK.PATH" value="C:\Users\zzhan\AppData\Roaming\JetBrains\PyCharmCE2020.2\plugins\Shell Script\shellcheck.exe" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="PC-202.6397.98-7ece0d74ef63c35a1cd2ad0b9adb88e89363c3edb7d43a93c410371b75e6c824" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="D:/Download/Git/CodingWorld/python27/Study_A_Byte_of_Python&#10;D:/Download/Git/CodingWorld/python27/Study_A_Byte_of_Python/Day02/expression.py" />
+    <property name="file.gist.reindex.count" value="2337" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="lastSeenTip" value="neue-RecentFiles.html" />
+    <property name="lastTimeTipsWereShown" value="1597761795460" />
+    <property name="last_opened_file_path" value="D:/Download/Git/CodingWorld/python27/Study_A_Byte_of_Python/Day02/expression.py" />
+    <property name="mt.showInstallAtom" value="true" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="seenTips" value="neue-BreakpointSpeedmenu.html,neue-RecentFiles.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Python37\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Python37\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Python37\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
